@@ -3,7 +3,8 @@ A Python-based spam bot for Multible Platforms running Spam protection bypasses 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X7MF230)
 
-MD5 of exe: SOON!
+MD5 of exe: b081a5793049f2dbd236f42e33ae355c
+MD5 Checker: [Online Here](https://emn178.github.io/online-tools/md5_checksum.html)
 
 
 **Functions**
