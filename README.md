@@ -7,7 +7,7 @@ MD5 of exe: SOON!
 
 
 **Functions**
- - RAW (for WhatsAPp and Plattforms without any Protections)
+ - RAW (for WhatsApp and Plattforms without any Protections)
  - Discord (using pyautogui to Emulate keystrokes, so its timed to not trigger ANtiSpam)
  - Discord Network (Spam based on Discord Network push, Work in progress!!)
 
